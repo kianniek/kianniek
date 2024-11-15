@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kian Hamidi</h1>
 <h3 align="center">A Game Developer from The Netherlands</h3>
+<h3 align="center"> <a  href="kianhamidi.com/portfolio.html">My Portfolio</a></h3>
 
 - 🔭 I’m currently working on [DirectX12 Game Engine](https://github.com/kianniek/DirectX-12-Engine)
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **kianniek@hotmail.com**
 
-- 📄 Know about my experiences [https://www.kianhamidi.com/resume.html](https://www.kianhamidi.com/resume.html)
+- 📄 Know about my experiences [https://www.kianhamidi.com/resume](https://www.kianhamidi.com/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
