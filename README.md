@@ -2,13 +2,13 @@
 <h3 align="center">A Game Developer from The Netherlands</h3>
 <h3 align="center"> <a  href="https://kianhamidi.com/portfolio.html">My Portfolio</a></h3>
 
-- 🔭 I’m currently working on [DirectX12 Game Engine](https://github.com/kianniek/DirectX-12-Engine)
+- 🔭 I’m currently working on [HouseKeepr](https://github.com/kianniek/HouseKeepr) a handy little app that syncs household tasks and a list for groceries to everyone in the same household
 
-- 🌱 I’m currently learning **DirectX API**
+- 🌱 I’m currently studying at the [University of Utrecht](uu.nl) in the master study program [Game and Media Technology](https://www.uu.nl/en/masters/game-and-media-technology)
 
 - 👨‍💻 All of my projects are available at [kianhamidi.com/portfolio](https://kianhamidi.com/portfolio.html)
 
-- 📫 How to reach me **kianniek@hotmail.com**
+- 📫 How to reach me [kianniek@hotmail.com](mailto:kianniek@hotmail.com)
 
 - 📄 Know about my experiences [https://www.kianhamidi.com/resume](https://kianhamidi.com/resume.html)
 
